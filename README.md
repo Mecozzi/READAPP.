@@ -8,7 +8,7 @@ Este proyecto analiza la recaudación impositiva de la Ciudad Autónoma de Bueno
 - **Analizar la relación entre el Impuesto sobre los Ingresos Brutos (IIBB) y la recaudación total:** Mediante la regresión lineal simple (RLS), se evalúa cómo el IIBB influye en la recaudación total de la ciudad.
 
 ## Herramientas Utilizadas
-- **Python 3.8**
+- **Python 
 - **Pandas:** para la manipulación de datos
 - **Matplotlib y Seaborn:** para visualización de datos
 - **Scikit-learn:** para modelado estadístico
